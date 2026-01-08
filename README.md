@@ -1,5 +1,6 @@
 📊 Instagram Unfollowers PRO
 
+
 Instagram Unfollowers PRO é uma ferramenta profissional, moderna e segura para identificar usuários que não te seguem de volta no Instagram. O projeto foi desenvolvido com foco em código limpo, boa organização, interface moderna e documentação clara, sendo ideal tanto para uso pessoal quanto para fins educacionais e de estudo.
 
 A ferramenta permite descobrir não-seguidores, exibir os resultados em uma interface elegante em tema escuro, selecionar manualmente quais usuários deixar de seguir e executar as ações com pausas de segurança para reduzir riscos de bloqueio.
